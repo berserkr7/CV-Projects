@@ -6,19 +6,19 @@
 
 **Используемые библиотеки:**
 
-TensorFlow
-Keras
-sklearn
-os
-Matplotlib
-numpy
-Pandas
+* TensorFlow
+* Keras
+* sklearn
+* os
+* Matplotlib
+* numpy
+* Pandas
 
 **Используемые алгоритмы и методы:**
 
-Подготовка данных для передачи в загрузчик
-ImageDataGenerator from dataframe
-Визуализация данных
-Аугментация данных
-Построение архитектуры CNN
+* Подготовка данных для передачи в загрузчик
+* ImageDataGenerator from dataframe
+* Визуализация данных
+* Аугментация данных
+* Построение архитектуры CNN
 
